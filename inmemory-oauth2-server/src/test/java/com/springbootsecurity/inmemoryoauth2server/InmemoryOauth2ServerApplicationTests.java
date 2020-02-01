@@ -1,10 +1,10 @@
-package com.springboot.securityoauth2server;
+package com.springbootsecurity.inmemoryoauth2server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SecurityOauth2ServerApplicationTests {
+class InmemoryOauth2ServerApplicationTests {
 
 	@Test
 	void contextLoads() {

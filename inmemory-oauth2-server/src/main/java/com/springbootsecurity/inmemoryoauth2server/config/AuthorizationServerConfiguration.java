@@ -1,4 +1,4 @@
-package com.springboot.securityoauth2server.config;
+package com.springbootsecurity.inmemoryoauth2server.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

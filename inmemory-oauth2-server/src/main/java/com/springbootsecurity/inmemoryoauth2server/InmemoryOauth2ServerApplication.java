@@ -1,13 +1,13 @@
-package com.springboot.securityoauth2server;
+package com.springbootsecurity.inmemoryoauth2server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityOauth2ServerApplication {
+public class InmemoryOauth2ServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityOauth2ServerApplication.class, args);
+		SpringApplication.run(InmemoryOauth2ServerApplication.class, args);
 	}
 
 }

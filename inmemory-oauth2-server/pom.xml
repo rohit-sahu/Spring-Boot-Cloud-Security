@@ -8,10 +8,10 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springboot</groupId>
-	<artifactId>security-oauth2-server</artifactId>
+	<groupId>com.springboot-security</groupId>
+	<artifactId>inmemory-oauth2-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>security-oauth2-server</name>
+	<name>inmemory-oauth2-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
